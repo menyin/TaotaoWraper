@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans
+      xmlns="http://www.springframework.org/schema/beans"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:context="http://www.springframework.org/schema/context"
+      xmlns:aop="http://www.springframework.org/schema/aop"
+      xmlns:tx="http://www.springframework.org/schema/tx"
+      xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+      xsi:schemaLocation="
+
+        http://www.springframework.org/schema/beans
+	  http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+	  http://www.springframework.org/schema/context
+      http://www.springframework.org/schema/context/spring-context-3.0.xsd
+	  http://www.springframework.org/schema/aop
+	  http://www.springframework.org/schema/aop/spring-aop-3.0.xsd
+	  http://www.springframework.org/schema/tx
+      http://www.springframework.org/schema/tx/spring-tx-3.0.xsd
+      http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd
+      ">
+    <context:property-placeholder location="classpath:db.properties"/>
+
+    <!-- 配置mysql C3P0连接池,目的：管理数据库连接 -->
+    <bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource" destroy-method="close">
+        <property name="driverClassName" value="${jdbc.driver}"/>
+        <property name="url" value="${jdbc.url}"/>
+        <property name="username" value="${jdbc.username}"/>
+        <property name="password" value="${jdbc.password}"/>
+        <property name="maxActive" value="${jdbc.maxActive}"/>
+    </bean>
+
+    <!-- 配置SqlSessionFactoryBean，目的：加载mybaits配置文件和映射文件，即替代原Mybatis工具类的作用 -->
+    <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+        <property name="configLocation" value="classpath:mybatis/mybatis.xml"/>
+        <property name="dataSource" ref="dataSource"/>
+
+        <!--配置扫描式加载SQL映射文件,记得去掉mybatis-config配置-->
+        <!--<property name="mapperLocations" value="classpath:com/cny/scm/dao/*.xml"/>-->
+    </bean>
+
+    <!-- 配置 转换器，对于在basePackage设置的包（包括子包）下的接口类，
+         如果接口类的全类名在Mapper.xml文件中和定义过命名空间一致，
+         将被转换成spring的BEAN，在调用的地方通过@Autowired方式将可以注入接口实例 -->
+    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+        <!--<property name="sqlSessionFactory" ref="sqlSessionFactory" />-->
+        <property name="basePackage" value="com.taotao.search.dao" />
+    </bean>
+    <!-- 自动扫描生成组件实例，如果是普通ssm项目要把controller去除，他们是在spring-mvc.xml中配置，如果不去除会影响事务管理。 -->
+    <!-- 这里dao实例已经在MapperScannerConfigurer里配置生成，而分布式项目此处没有controller实例，所以不用排除controller -->
+    <context:component-scan base-package="com.taotao"></context:component-scan>
+    <bean name="searchDao" class="com.taotao.search.dao.impl.SearchDaoImpl"/>
+    <bean name="searchItemService" class="com.taotao.search.service.SearchItemServiceImpl"/>
+    <!-- 单机版solr的连接 -->
+    <!--<bean id="httpSolrServer" class="org.apache.solr.client.solrj.impl.HttpSolrServer">
+        <constructor-arg name="baseURL" value="http://192.168.1.236:8090/solr/collection1"/>
+    </bean>-->
+    <!-- 集群版solr连接 -->
+    <bean id="cloudSolrServer" class="org.apache.solr.client.solrj.impl.CloudSolrServer">
+        <constructor-arg name="zkHost" value="192.168.1.236:2181,192.168.1.236:2182,192.168.1.236:2183"></constructor-arg>
+        <property name="defaultCollection" value="collection2"/>
+    </bean>
+
+</beans>
+
+
+
+
+
+
+
+      

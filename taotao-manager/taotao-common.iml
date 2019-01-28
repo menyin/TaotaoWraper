@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
+    <output url="file://Z:/taotaoshop/淘淘商城项目（大胖）_2016年版/day13_项目总结&amp;部署/taotao-finish/taotao-common/target/classes" />
+    <output-test url="file://Z:/taotaoshop/淘淘商城项目（大胖）_2016年版/day13_项目总结&amp;部署/taotao-finish/taotao-common/target/test-classes" />
+    <content url="file://Z:/taotaoshop/淘淘商城项目（大胖）_2016年版/day13_项目总结&amp;部署/taotao-finish/taotao-common">
+      <sourceFolder url="file://Z:/taotaoshop/淘淘商城项目（大胖）_2016年版/day13_项目总结&amp;部署/taotao-finish/taotao-common/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://Z:/taotaoshop/淘淘商城项目（大胖）_2016年版/day13_项目总结&amp;部署/taotao-finish/taotao-common/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://Z:/taotaoshop/淘淘商城项目（大胖）_2016年版/day13_项目总结&amp;部署/taotao-finish/taotao-common/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://Z:/taotaoshop/淘淘商城项目（大胖）_2016年版/day13_项目总结&amp;部署/taotao-finish/taotao-common/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://Z:/taotaoshop/淘淘商城项目（大胖）_2016年版/day13_项目总结&amp;部署/taotao-finish/taotao-common/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

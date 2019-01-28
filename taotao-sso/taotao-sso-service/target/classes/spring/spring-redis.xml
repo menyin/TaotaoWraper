@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans 
+      xmlns="http://www.springframework.org/schema/beans"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:context="http://www.springframework.org/schema/context"
+      xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+      xsi:schemaLocation="
+
+        http://www.springframework.org/schema/beans
+	  http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+	  http://www.springframework.org/schema/context
+      http://www.springframework.org/schema/context/spring-context-3.0.xsd
+      http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd
+      ">
+    <context:property-placeholder location="classpath:properties/*.properties"/>
+
+
+    <!-- 自动扫描生成组件实例，如果是普通ssm项目要把controller去除，他们是在spring-mvc.xml中配置，如果不去除会影响事务管理。 -->
+    <!-- 这里dao实例已经在MapperScannerConfigurer里配置生成，而分布式项目此处没有controller实例，所以不用排除controller -->
+    <context:component-scan base-package="com.taotao"></context:component-scan>
+
+    <!--单机版 redisclient实现 begin-->
+    <bean name="jedisPool" class="redis.clients.jedis.JedisPool">
+        <constructor-arg name="host"  value="192.168.1.236"/>
+        <constructor-arg name="port"  value="6379"/>
+    </bean>
+    <bean name="jedisClient" class="com.taotao.jedis.JedisClientSingle"/>
+    <!--单机版 redisclient实现 end-->
+
+     <!--集群版 redisclient实现 begin-->
+<!--    <bean name="jedisCluster" class="redis.clients.jedis.JedisCluster">
+        <constructor-arg>
+            <set>
+                <bean class="redis.clients.jedis.HostAndPort">
+                    <constructor-arg name="host" value="192.168.1.236"/>
+                    <constructor-arg name="port" value="7001"/>
+                </bean>
+                <bean class="redis.clients.jedis.HostAndPort">
+                    <constructor-arg name="host" value="192.168.1.236"/>
+                    <constructor-arg name="port" value="7002"/>
+                </bean>
+                <bean class="redis.clients.jedis.HostAndPort">
+                    <constructor-arg name="host" value="192.168.1.236"/>
+                    <constructor-arg name="port" value="7003"/>
+                </bean>
+                <bean class="redis.clients.jedis.HostAndPort">
+                    <constructor-arg name="host" value="192.168.1.236"/>
+                    <constructor-arg name="port" value="7004"/>
+                </bean>
+                <bean class="redis.clients.jedis.HostAndPort">
+                    <constructor-arg name="host" value="192.168.1.236"/>
+                    <constructor-arg name="port" value="7005"/>
+                </bean>
+                <bean class="redis.clients.jedis.HostAndPort">
+                    <constructor-arg name="host" value="192.168.1.236"/>
+                    <constructor-arg name="port" value="7006"/>
+                </bean>
+            </set>
+        </constructor-arg>
+    </bean>
+    <bean name="jedisClient" class="com.taotao.jedis.JedisClientCluster"/>-->
+     <!--集群版 redisclient实现 end-->
+
+
+</beans>      
+      
+      
+      
+      
+      
+      
+      
+      

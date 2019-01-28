@@ -1,0 +1,2834 @@
+
+
+[DEBUG] 2018-09-21 09:35:51,642 method:org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:221)
+Creating shared instance of singleton bean 'org.springframework.web.servlet.view.InternalResourceViewResolver#0'
+
+
+[DEBUG] 2018-09-21 09:35:51,642 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:448)
+Creating instance of bean 'org.springframework.web.servlet.view.InternalResourceViewResolver#0'
+
+
+[DEBUG] 2018-09-21 09:35:51,657 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:529)
+Eagerly caching bean 'org.springframework.web.servlet.view.InternalResourceViewResolver#0' to allow for resolving potential circular references
+
+
+[DEBUG] 2018-09-21 09:35:51,657 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:484)
+Finished creating instance of bean 'org.springframework.web.servlet.view.InternalResourceViewResolver#0'
+
+
+[DEBUG] 2018-09-21 09:35:51,657 method:org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:221)
+Creating shared instance of singleton bean 'mvcResourceUrlProvider'
+
+
+[DEBUG] 2018-09-21 09:35:51,657 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:448)
+Creating instance of bean 'mvcResourceUrlProvider'
+
+
+[DEBUG] 2018-09-21 09:35:51,657 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:529)
+Eagerly caching bean 'mvcResourceUrlProvider' to allow for resolving potential circular references
+
+
+[DEBUG] 2018-09-21 09:35:51,657 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:484)
+Finished creating instance of bean 'mvcResourceUrlProvider'
+
+
+[DEBUG] 2018-09-21 09:35:51,657 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.web.servlet.handler.MappedInterceptor#1'
+
+
+[DEBUG] 2018-09-21 09:35:51,657 method:org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:221)
+Creating shared instance of singleton bean 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+
+
+[DEBUG] 2018-09-21 09:35:51,657 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:448)
+Creating instance of bean 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+
+
+[DEBUG] 2018-09-21 09:35:51,657 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:529)
+Eagerly caching bean 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0' to allow for resolving potential circular references
+
+
+[DEBUG] 2018-09-21 09:35:51,673 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1620)
+Invoking afterPropertiesSet() on bean with name 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+
+
+[DEBUG] 2018-09-21 09:35:51,673 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:484)
+Finished creating instance of bean 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+
+
+[DEBUG] 2018-09-21 09:35:51,673 method:org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:221)
+Creating shared instance of singleton bean 'mvcPathMatcher'
+
+
+[DEBUG] 2018-09-21 09:35:51,673 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:448)
+Creating instance of bean 'mvcPathMatcher'
+
+
+[DEBUG] 2018-09-21 09:35:51,673 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:529)
+Eagerly caching bean 'mvcPathMatcher' to allow for resolving potential circular references
+
+
+[DEBUG] 2018-09-21 09:35:51,673 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:484)
+Finished creating instance of bean 'mvcPathMatcher'
+
+
+[DEBUG] 2018-09-21 09:35:51,673 method:org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:221)
+Creating shared instance of singleton bean 'mvcUrlPathHelper'
+
+
+[DEBUG] 2018-09-21 09:35:51,673 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:448)
+Creating instance of bean 'mvcUrlPathHelper'
+
+
+[DEBUG] 2018-09-21 09:35:51,673 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:529)
+Eagerly caching bean 'mvcUrlPathHelper' to allow for resolving potential circular references
+
+
+[DEBUG] 2018-09-21 09:35:51,673 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:484)
+Finished creating instance of bean 'mvcUrlPathHelper'
+
+
+[DEBUG] 2018-09-21 09:35:51,704 method:org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:221)
+Creating shared instance of singleton bean 'org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#0'
+
+
+[DEBUG] 2018-09-21 09:35:51,704 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:448)
+Creating instance of bean 'org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#0'
+
+
+[DEBUG] 2018-09-21 09:35:51,704 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:529)
+Eagerly caching bean 'org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#0' to allow for resolving potential circular references
+
+
+[DEBUG] 2018-09-21 09:35:51,720 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'mvcPathMatcher'
+
+
+[DEBUG] 2018-09-21 09:35:51,720 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'mvcUrlPathHelper'
+
+
+[DEBUG] 2018-09-21 09:35:51,720 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'mvcCorsConfigurations'
+
+
+[DEBUG] 2018-09-21 09:35:51,720 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.web.servlet.handler.MappedInterceptor#0'
+
+
+[DEBUG] 2018-09-21 09:35:51,720 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.web.servlet.handler.MappedInterceptor#1'
+
+
+[DEBUG] 2018-09-21 09:35:51,720 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+
+
+[INFO ] 2018-09-21 09:35:51,720 method:org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler(AbstractUrlHandlerMapping.java:341)
+Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+
+
+[DEBUG] 2018-09-21 09:35:51,720 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:484)
+Finished creating instance of bean 'org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#0'
+
+
+[DEBUG] 2018-09-21 09:35:51,751 method:org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:221)
+Creating shared instance of singleton bean 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+
+
+[DEBUG] 2018-09-21 09:35:51,751 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:448)
+Creating instance of bean 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+
+
+[DEBUG] 2018-09-21 09:35:51,751 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:529)
+Eagerly caching bean 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1' to allow for resolving potential circular references
+
+
+[DEBUG] 2018-09-21 09:35:51,751 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1620)
+Invoking afterPropertiesSet() on bean with name 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+
+
+[DEBUG] 2018-09-21 09:35:51,751 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:484)
+Finished creating instance of bean 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+
+
+[DEBUG] 2018-09-21 09:35:51,751 method:org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:221)
+Creating shared instance of singleton bean 'org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#1'
+
+
+[DEBUG] 2018-09-21 09:35:51,751 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:448)
+Creating instance of bean 'org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#1'
+
+
+[DEBUG] 2018-09-21 09:35:51,751 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:529)
+Eagerly caching bean 'org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#1' to allow for resolving potential circular references
+
+
+[DEBUG] 2018-09-21 09:35:51,751 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'mvcPathMatcher'
+
+
+[DEBUG] 2018-09-21 09:35:51,751 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'mvcUrlPathHelper'
+
+
+[DEBUG] 2018-09-21 09:35:51,751 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'mvcCorsConfigurations'
+
+
+[DEBUG] 2018-09-21 09:35:51,751 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.web.servlet.handler.MappedInterceptor#0'
+
+
+[DEBUG] 2018-09-21 09:35:51,751 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.web.servlet.handler.MappedInterceptor#1'
+
+
+[DEBUG] 2018-09-21 09:35:51,751 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+
+
+[INFO ] 2018-09-21 09:35:51,751 method:org.springframework.web.servlet.handler.AbstractUrlHandlerMapping.registerHandler(AbstractUrlHandlerMapping.java:341)
+Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+
+
+[DEBUG] 2018-09-21 09:35:51,751 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:484)
+Finished creating instance of bean 'org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#1'
+
+
+[DEBUG] 2018-09-21 09:35:51,798 method:org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:221)
+Creating shared instance of singleton bean 'itemController'
+
+
+[DEBUG] 2018-09-21 09:35:51,798 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:448)
+Creating instance of bean 'itemController'
+
+
+[DEBUG] 2018-09-21 09:35:51,829 method:org.springframework.beans.factory.annotation.InjectionMetadata.checkConfigMembers(InjectionMetadata.java:72)
+Registered injected element on class [com.taotao.controller.ItemController]: AutowiredFieldElement for private com.taotao.service.ItemService com.taotao.controller.ItemController.itemService
+
+
+[DEBUG] 2018-09-21 09:35:51,829 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:529)
+Eagerly caching bean 'itemController' to allow for resolving potential circular references
+
+
+[DEBUG] 2018-09-21 09:35:51,829 method:org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:86)
+Processing injected element of bean 'itemController': AutowiredFieldElement for private com.taotao.service.ItemService com.taotao.controller.ItemController.itemService
+
+
+[DEBUG] 2018-09-21 09:35:51,907 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'itemService'
+
+
+[DEBUG] 2018-09-21 09:35:52,110 method:com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(ExtensionLoader.java:943)
+ [DUBBO] package com.alibaba.dubbo.registry;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class RegistryFactory$Adpative implements com.alibaba.dubbo.registry.RegistryFactory {
+public com.alibaba.dubbo.registry.Registry getRegistry(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = ( url.getProtocol() == null ? "dubbo" : url.getProtocol() );
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.registry.RegistryFactory) name from url(" + url.toString() + ") use keys([protocol])");
+com.alibaba.dubbo.registry.RegistryFactory extension = (com.alibaba.dubbo.registry.RegistryFactory)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.registry.RegistryFactory.class).getExtension(extName);
+return extension.getRegistry(arg0);
+}
+}, dubbo version: 2.5.3, current host: 127.0.0.1
+
+
+[DEBUG] 2018-09-21 09:35:52,125 method:com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(ExtensionLoader.java:943)
+ [DUBBO] package com.alibaba.dubbo.remoting.zookeeper;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class ZookeeperTransporter$Adpative implements com.alibaba.dubbo.remoting.zookeeper.ZookeeperTransporter {
+public com.alibaba.dubbo.remoting.zookeeper.ZookeeperClient connect(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = url.getParameter("client", url.getParameter("transporter", "zkclient"));
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.remoting.zookeeper.ZookeeperTransporter) name from url(" + url.toString() + ") use keys([client, transporter])");
+com.alibaba.dubbo.remoting.zookeeper.ZookeeperTransporter extension = (com.alibaba.dubbo.remoting.zookeeper.ZookeeperTransporter)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.remoting.zookeeper.ZookeeperTransporter.class).getExtension(extName);
+return extension.connect(arg0);
+}
+}, dubbo version: 2.5.3, current host: 127.0.0.1
+
+
+[INFO ] 2018-09-21 09:35:52,172 method:com.alibaba.dubbo.registry.support.AbstractRegistry.loadProperties(AbstractRegistry.java:232)
+ [DUBBO] Load registry store file C:\Users\win7\.dubbo\dubbo-registry-192.168.1.236.cache, data: {com.taotao.content.service.ContentService=empty://192.168.1.250:20881/com.taotao.content.service.ContentService?anyhost=true&application=taotao-manager&category=configurators&check=false&dubbo=2.5.3&interface=com.taotao.content.service.ContentService&methods=getContentByCid&pid=9356&side=provider&timeout=300000&timestamp=1537493674921, com.taotao.service.ItemService=empty://192.168.1.250:20880/com.taotao.service.ItemService?anyhost=true&application=taotao-manager&category=configurators&check=false&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=getItemList,addItem,getItemById&pid=9360&side=provider&timeout=300000&timestamp=1537493649988, com.taotao.search.service.SearchItemService=empty://192.168.1.250:20883/com.taotao.search.service.SearchItemService?anyhost=true&application=taotao-search&category=configurators&check=false&dubbo=2.5.3&interface=com.taotao.search.service.SearchItemService&methods=getItemList,searchPage,search,importItemsToIndex&pid=8736&side=provider&timeout=300000&timestamp=1537493681536}, dubbo version: 2.5.3, current host: 127.0.0.1
+
+
+[DEBUG] 2018-09-21 09:35:52,235 method:org.I0Itec.zkclient.ZkConnection.connect(ZkConnection.java:63)
+Creating new ZookKeeper instance to connect to 192.168.1.236:2181.
+
+
+[INFO ] 2018-09-21 09:35:52,235 method:org.I0Itec.zkclient.ZkEventThread.run(ZkEventThread.java:64)
+Starting ZkClient event thread.
+
+
+[INFO ] 2018-09-21 09:35:52,328 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:zookeeper.version=3.4.7-1713338, built on 11/09/2015 04:32 GMT
+
+
+[INFO ] 2018-09-21 09:35:52,328 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:host.name=win7-PC
+
+
+[INFO ] 2018-09-21 09:35:52,328 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.version=1.7.0_07
+
+
+[INFO ] 2018-09-21 09:35:52,328 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.vendor=Oracle Corporation
+
+
+[INFO ] 2018-09-21 09:35:52,328 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.home=C:\Java\jdk1.7.0_07\jre
+
+
+[INFO ] 2018-09-21 09:35:52,328 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.class.path=C:\apache-maven-3.2.1\boot\plexus-classworlds-2.5.1.jar;C:\Program Files\JetBrains\IntelliJ IDEA 2017.3\lib\idea_rt.jar
+
+
+[INFO ] 2018-09-21 09:35:52,328 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.library.path=C:\Java\jdk1.7.0_07\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;.;C:\Java\jdk1.8.0_11\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;E:\SoftWares\MySql\Initials\bin;C:\apache-maven-3.5.3\bin;E:\SoftWares\TortoiseSVN\Initials\bin;E:\SoftWares\nodejs\;C:\strawberry\c\bin;C:\strawberry\perl\bin;C:\Users\win7\AppData\Roaming\npm;.
+
+
+[INFO ] 2018-09-21 09:35:52,328 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.io.tmpdir=C:\Users\win7\AppData\Local\Temp\
+
+
+[INFO ] 2018-09-21 09:35:52,328 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.compiler=<NA>
+
+
+[INFO ] 2018-09-21 09:35:52,328 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.name=Windows 7
+
+
+[INFO ] 2018-09-21 09:35:52,328 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.arch=amd64
+
+
+[INFO ] 2018-09-21 09:35:52,328 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.version=6.1
+
+
+[INFO ] 2018-09-21 09:35:52,328 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.name=win7
+
+
+[INFO ] 2018-09-21 09:35:52,328 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.home=C:\Users\win7
+
+
+[INFO ] 2018-09-21 09:35:52,328 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.dir=E:\GitProjects\TaotaoWraper\taotao-manager-web
+
+
+[INFO ] 2018-09-21 09:35:52,328 method:org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:438)
+Initiating client connection, connectString=192.168.1.236:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@28ed3228
+
+
+[DEBUG] 2018-09-21 09:35:52,328 method:org.apache.zookeeper.ClientCnxn.<clinit>(ClientCnxn.java:117)
+zookeeper.disableAutoWatchReset is false
+
+
+[DEBUG] 2018-09-21 09:35:52,625 method:org.I0Itec.zkclient.ZkClient.connect(ZkClient.java:874)
+Awaiting connection to Zookeeper server
+
+
+[DEBUG] 2018-09-21 09:35:52,625 method:org.I0Itec.zkclient.ZkClient.waitForKeeperState(ZkClient.java:628)
+Waiting for keeper state SyncConnected
+
+
+[INFO ] 2018-09-21 09:35:52,703 method:org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1032)
+Opening socket connection to server 192.168.1.236/192.168.1.236:2181. Will not attempt to authenticate using SASL (unknown error)
+
+
+[INFO ] 2018-09-21 09:35:52,781 method:org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:876)
+Socket connection established to 192.168.1.236/192.168.1.236:2181, initiating session
+
+
+[DEBUG] 2018-09-21 09:35:52,781 method:org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:949)
+Session establishment request sent on 192.168.1.236/192.168.1.236:2181
+
+
+[INFO ] 2018-09-21 09:35:52,812 method:org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1299)
+Session establishment complete on server 192.168.1.236/192.168.1.236:2181, sessionid = 0x165d79b826f004f, negotiated timeout = 30000
+
+
+[DEBUG] 2018-09-21 09:35:52,812 method:org.I0Itec.zkclient.ZkClient.process(ZkClient.java:351)
+Received event: WatchedEvent state:SyncConnected type:None path:null
+
+
+[INFO ] 2018-09-21 09:35:52,812 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (SyncConnected)
+
+
+[DEBUG] 2018-09-21 09:35:52,812 method:org.I0Itec.zkclient.ZkClient.process(ZkClient.java:395)
+Leaving process event
+
+
+[DEBUG] 2018-09-21 09:35:52,812 method:org.I0Itec.zkclient.ZkClient.waitForKeeperState(ZkClient.java:638)
+State is SyncConnected
+
+
+[DEBUG] 2018-09-21 09:35:52,827 method:com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(ExtensionLoader.java:943)
+ [DUBBO] package com.alibaba.dubbo.rpc.cluster;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class RouterFactory$Adpative implements com.alibaba.dubbo.rpc.cluster.RouterFactory {
+public com.alibaba.dubbo.rpc.cluster.Router getRouter(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = url.getProtocol();
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.rpc.cluster.RouterFactory) name from url(" + url.toString() + ") use keys([protocol])");
+com.alibaba.dubbo.rpc.cluster.RouterFactory extension = (com.alibaba.dubbo.rpc.cluster.RouterFactory)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.rpc.cluster.RouterFactory.class).getExtension(extName);
+return extension.getRouter(arg0);
+}
+}, dubbo version: 2.5.3, current host: 127.0.0.1
+
+
+[DEBUG] 2018-09-21 09:35:52,827 method:com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(ExtensionLoader.java:943)
+ [DUBBO] package com.alibaba.dubbo.rpc.cluster;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class ConfiguratorFactory$Adpative implements com.alibaba.dubbo.rpc.cluster.ConfiguratorFactory {
+public com.alibaba.dubbo.rpc.cluster.Configurator getConfigurator(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = url.getProtocol();
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.rpc.cluster.ConfiguratorFactory) name from url(" + url.toString() + ") use keys([protocol])");
+com.alibaba.dubbo.rpc.cluster.ConfiguratorFactory extension = (com.alibaba.dubbo.rpc.cluster.ConfiguratorFactory)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.rpc.cluster.ConfiguratorFactory.class).getExtension(extName);
+return extension.getConfigurator(arg0);
+}
+}, dubbo version: 2.5.3, current host: 127.0.0.1
+
+
+[INFO ] 2018-09-21 09:35:52,843 method:com.alibaba.dubbo.registry.support.AbstractRegistry.register(AbstractRegistry.java:302)
+ [DUBBO] Register: consumer://192.168.1.250/com.taotao.service.ItemService?application=taotao-web&category=consumers&check=false&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=getItemList,addItem,getItemById&pid=6676&revision=1.0-SNAPSHOT&side=consumer&timestamp=1537493751923, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:35:52,843 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 1,1  replyHeader:: 1,4294971087,-110  request:: '/dubbo,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:52,859 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 2,1  replyHeader:: 2,4294971088,-110  request:: '/dubbo/com.taotao.service.ItemService,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:52,859 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 3,1  replyHeader:: 3,4294971089,-110  request:: '/dubbo/com.taotao.service.ItemService/consumers,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:52,874 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 4,1  replyHeader:: 4,4294971090,0  request:: '/dubbo/com.taotao.service.ItemService/consumers/consumer%253A%252F%252F192.168.1.250%252Fcom.taotao.service.ItemService%253Fapplication%253Dtaotao-web%2526category%253Dconsumers%2526check%253Dfalse%2526dubbo%253D2.5.3%2526interface%253Dcom.taotao.service.ItemService%2526methods%253DgetItemList%252CaddItem%252CgetItemById%2526pid%253D6676%2526revision%253D1.0-SNAPSHOT%2526side%253Dconsumer%2526timestamp%253D1537493751923,,v{s{31,s{'world,'anyone}}},1  response:: '/dubbo/com.taotao.service.ItemService/consumers/consumer%253A%252F%252F192.168.1.250%252Fcom.taotao.service.ItemService%253Fapplication%253Dtaotao-web%2526category%253Dconsumers%2526check%253Dfalse%2526dubbo%253D2.5.3%2526interface%253Dcom.taotao.service.ItemService%2526methods%253DgetItemList%252CaddItem%252CgetItemById%2526pid%253D6676%2526revision%253D1.0-SNAPSHOT%2526side%253Dconsumer%2526timestamp%253D1537493751923 
+
+
+[INFO ] 2018-09-21 09:35:52,874 method:com.alibaba.dubbo.registry.support.AbstractRegistry.subscribe(AbstractRegistry.java:325)
+ [DUBBO] Subscribe: consumer://192.168.1.250/com.taotao.service.ItemService?application=taotao-web&category=providers,configurators,routers&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=getItemList,addItem,getItemById&pid=6676&revision=1.0-SNAPSHOT&side=consumer&timestamp=1537493751923, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:35:52,890 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 5,1  replyHeader:: 5,4294971091,-110  request:: '/dubbo,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:52,890 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 6,1  replyHeader:: 6,4294971092,-110  request:: '/dubbo/com.taotao.service.ItemService,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:52,890 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 7,1  replyHeader:: 7,4294971093,-110  request:: '/dubbo/com.taotao.service.ItemService/providers,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:52,890 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 8,3  replyHeader:: 8,4294971093,0  request:: '/dubbo/com.taotao.service.ItemService/providers,T  response:: s{4294970124,4294970124,1537263497972,1537263497972,0,25,0,0,0,1,4294971066} 
+
+
+[DEBUG] 2018-09-21 09:35:52,905 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 9,8  replyHeader:: 9,4294971093,0  request:: '/dubbo/com.taotao.service.ItemService/providers,T  response:: v{'dubbo%253A%252F%252F192.168.1.250%253A20880%252Fcom.taotao.service.ItemService%253Fanyhost%253Dtrue%2526application%253Dtaotao-manager%2526dubbo%253D2.5.3%2526interface%253Dcom.taotao.service.ItemService%2526methods%253DgetItemList%252CaddItem%252CgetItemById%2526pid%253D9360%2526side%253Dprovider%2526timeout%253D300000%2526timestamp%253D1537493649988} 
+
+
+[DEBUG] 2018-09-21 09:35:52,921 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 10,1  replyHeader:: 10,4294971094,-110  request:: '/dubbo,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:52,921 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 11,1  replyHeader:: 11,4294971095,-110  request:: '/dubbo/com.taotao.service.ItemService,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:52,937 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 12,1  replyHeader:: 12,4294971096,-110  request:: '/dubbo/com.taotao.service.ItemService/configurators,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:52,937 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 13,3  replyHeader:: 13,4294971096,0  request:: '/dubbo/com.taotao.service.ItemService/configurators,T  response:: s{4294970128,4294970128,1537263498006,1537263498006,0,0,0,0,0,0,4294970128} 
+
+
+[DEBUG] 2018-09-21 09:35:52,937 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 14,8  replyHeader:: 14,4294971096,0  request:: '/dubbo/com.taotao.service.ItemService/configurators,T  response:: v{} 
+
+
+[DEBUG] 2018-09-21 09:35:52,937 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 15,1  replyHeader:: 15,4294971097,-110  request:: '/dubbo,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:52,937 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 16,1  replyHeader:: 16,4294971098,-110  request:: '/dubbo/com.taotao.service.ItemService,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:52,937 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 17,1  replyHeader:: 17,4294971099,-110  request:: '/dubbo/com.taotao.service.ItemService/routers,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:52,937 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 18,3  replyHeader:: 18,4294971099,0  request:: '/dubbo/com.taotao.service.ItemService/routers,T  response:: s{4294970142,4294970142,1537263569052,1537263569052,0,0,0,0,0,0,4294970142} 
+
+
+[DEBUG] 2018-09-21 09:35:52,937 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 19,8  replyHeader:: 19,4294971099,0  request:: '/dubbo/com.taotao.service.ItemService/routers,T  response:: v{} 
+
+
+[INFO ] 2018-09-21 09:35:52,952 method:com.alibaba.dubbo.registry.support.AbstractRegistry.notify(AbstractRegistry.java:422)
+ [DUBBO] Notify urls for subscribe url consumer://192.168.1.250/com.taotao.service.ItemService?application=taotao-web&category=providers,configurators,routers&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=getItemList,addItem,getItemById&pid=6676&revision=1.0-SNAPSHOT&side=consumer&timestamp=1537493751923, urls: [dubbo://192.168.1.250:20880/com.taotao.service.ItemService?anyhost=true&application=taotao-manager&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=getItemList,addItem,getItemById&pid=9360&side=provider&timeout=300000&timestamp=1537493649988, empty://192.168.1.250/com.taotao.service.ItemService?application=taotao-web&category=configurators&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=getItemList,addItem,getItemById&pid=6676&revision=1.0-SNAPSHOT&side=consumer&timestamp=1537493751923, empty://192.168.1.250/com.taotao.service.ItemService?application=taotao-web&category=routers&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=getItemList,addItem,getItemById&pid=6676&revision=1.0-SNAPSHOT&side=consumer&timestamp=1537493751923], dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:35:53,015 method:com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(ExtensionLoader.java:943)
+ [DUBBO] package com.alibaba.dubbo.remoting;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class Transporter$Adpative implements com.alibaba.dubbo.remoting.Transporter {
+public com.alibaba.dubbo.remoting.Client connect(com.alibaba.dubbo.common.URL arg0, com.alibaba.dubbo.remoting.ChannelHandler arg1) throws com.alibaba.dubbo.common.URL {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = url.getParameter("client", url.getParameter("transporter", "netty"));
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.remoting.Transporter) name from url(" + url.toString() + ") use keys([client, transporter])");
+com.alibaba.dubbo.remoting.Transporter extension = (com.alibaba.dubbo.remoting.Transporter)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.remoting.Transporter.class).getExtension(extName);
+return extension.connect(arg0, arg1);
+}
+public com.alibaba.dubbo.remoting.Server bind(com.alibaba.dubbo.common.URL arg0, com.alibaba.dubbo.remoting.ChannelHandler arg1) throws com.alibaba.dubbo.common.URL {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = url.getParameter("server", url.getParameter("transporter", "netty"));
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.remoting.Transporter) name from url(" + url.toString() + ") use keys([server, transporter])");
+com.alibaba.dubbo.remoting.Transporter extension = (com.alibaba.dubbo.remoting.Transporter)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.remoting.Transporter.class).getExtension(extName);
+return extension.bind(arg0, arg1);
+}
+}, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:35:53,061 method:com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(ExtensionLoader.java:943)
+ [DUBBO] package com.alibaba.dubbo.remoting;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class Dispatcher$Adpative implements com.alibaba.dubbo.remoting.Dispatcher {
+public com.alibaba.dubbo.remoting.ChannelHandler dispatch(com.alibaba.dubbo.remoting.ChannelHandler arg0, com.alibaba.dubbo.common.URL arg1) {
+if (arg1 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg1;
+String extName = url.getParameter("dispatcher", url.getParameter("dispather", url.getParameter("channel.handler", "all")));
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.remoting.Dispatcher) name from url(" + url.toString() + ") use keys([dispatcher, dispather, channel.handler])");
+com.alibaba.dubbo.remoting.Dispatcher extension = (com.alibaba.dubbo.remoting.Dispatcher)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.remoting.Dispatcher.class).getExtension(extName);
+return extension.dispatch(arg0, arg1);
+}
+}, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:35:53,077 method:com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(ExtensionLoader.java:943)
+ [DUBBO] package com.alibaba.dubbo.common.threadpool;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class ThreadPool$Adpative implements com.alibaba.dubbo.common.threadpool.ThreadPool {
+public java.util.concurrent.Executor getExecutor(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = url.getParameter("threadpool", "fixed");
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.common.threadpool.ThreadPool) name from url(" + url.toString() + ") use keys([threadpool])");
+com.alibaba.dubbo.common.threadpool.ThreadPool extension = (com.alibaba.dubbo.common.threadpool.ThreadPool)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.common.threadpool.ThreadPool.class).getExtension(extName);
+return extension.getExecutor(arg0);
+}
+}, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[INFO ] 2018-09-21 09:35:53,186 method:com.alibaba.dubbo.remoting.transport.AbstractClient.connect(AbstractClient.java:287)
+ [DUBBO] Successed connect to server /192.168.1.250:20880 from NettyClient 192.168.1.250 using dubbo version 2.5.3, channel is NettyChannel [channel=[id: 0x5cb8c999, /192.168.1.250:39157 => /192.168.1.250:20880]], dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[INFO ] 2018-09-21 09:35:53,186 method:com.alibaba.dubbo.remoting.transport.AbstractClient.<init>(AbstractClient.java:105)
+ [DUBBO] Start NettyClient win7-PC/192.168.1.250 connect to the server /192.168.1.250:20880, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:35:53,217 method:com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(ExtensionLoader.java:943)
+ [DUBBO] package com.alibaba.dubbo.validation;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class Validation$Adpative implements com.alibaba.dubbo.validation.Validation {
+public com.alibaba.dubbo.validation.Validator getValidator(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = url.getParameter("validation", "jvalidation");
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.validation.Validation) name from url(" + url.toString() + ") use keys([validation])");
+com.alibaba.dubbo.validation.Validation extension = (com.alibaba.dubbo.validation.Validation)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.validation.Validation.class).getExtension(extName);
+return extension.getValidator(arg0);
+}
+}, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:35:53,233 method:com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(ExtensionLoader.java:943)
+ [DUBBO] package com.alibaba.dubbo.monitor;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class MonitorFactory$Adpative implements com.alibaba.dubbo.monitor.MonitorFactory {
+public com.alibaba.dubbo.monitor.Monitor getMonitor(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = ( url.getProtocol() == null ? "dubbo" : url.getProtocol() );
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.monitor.MonitorFactory) name from url(" + url.toString() + ") use keys([protocol])");
+com.alibaba.dubbo.monitor.MonitorFactory extension = (com.alibaba.dubbo.monitor.MonitorFactory)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.monitor.MonitorFactory.class).getExtension(extName);
+return extension.getMonitor(arg0);
+}
+}, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:35:53,249 method:com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(ExtensionLoader.java:943)
+ [DUBBO] package com.alibaba.dubbo.cache;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class CacheFactory$Adpative implements com.alibaba.dubbo.cache.CacheFactory {
+public com.alibaba.dubbo.cache.Cache getCache(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = url.getParameter("cache", "lru");
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.cache.CacheFactory) name from url(" + url.toString() + ") use keys([cache])");
+com.alibaba.dubbo.cache.CacheFactory extension = (com.alibaba.dubbo.cache.CacheFactory)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.cache.CacheFactory.class).getExtension(extName);
+return extension.getCache(arg0);
+}
+}, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[INFO ] 2018-09-21 09:35:53,249 method:com.alibaba.dubbo.config.ReferenceConfig.createProxy(ReferenceConfig.java:423)
+ [DUBBO] Refer dubbo service com.taotao.service.ItemService from url zookeeper://192.168.1.236:2181/com.alibaba.dubbo.registry.RegistryService?anyhost=true&application=taotao-web&check=false&dubbo=2.5.3&interface=com.taotao.service.ItemService&methods=getItemList,addItem,getItemById&pid=6676&revision=1.0-SNAPSHOT&side=consumer&timeout=300000&timestamp=1537493751923, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:35:53,264 method:org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.registerDependentBeans(AutowiredAnnotationBeanPostProcessor.java:492)
+Autowiring by type from bean name 'itemController' to bean named 'itemService'
+
+
+[DEBUG] 2018-09-21 09:35:53,264 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:484)
+Finished creating instance of bean 'itemController'
+
+
+[DEBUG] 2018-09-21 09:35:53,264 method:org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:221)
+Creating shared instance of singleton bean 'pageController'
+
+
+[DEBUG] 2018-09-21 09:35:53,264 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:448)
+Creating instance of bean 'pageController'
+
+
+[DEBUG] 2018-09-21 09:35:53,264 method:org.springframework.beans.factory.annotation.InjectionMetadata.checkConfigMembers(InjectionMetadata.java:72)
+Registered injected element on class [com.taotao.controller.PageController]: AutowiredFieldElement for private com.taotao.search.service.SearchItemService com.taotao.controller.PageController.searchItemService
+
+
+[DEBUG] 2018-09-21 09:35:53,264 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:529)
+Eagerly caching bean 'pageController' to allow for resolving potential circular references
+
+
+[DEBUG] 2018-09-21 09:35:53,264 method:org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:86)
+Processing injected element of bean 'pageController': AutowiredFieldElement for private com.taotao.search.service.SearchItemService com.taotao.controller.PageController.searchItemService
+
+
+[DEBUG] 2018-09-21 09:35:53,264 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'searchItemService'
+
+
+[INFO ] 2018-09-21 09:35:53,280 method:com.alibaba.dubbo.registry.support.AbstractRegistry.register(AbstractRegistry.java:302)
+ [DUBBO] Register: consumer://192.168.1.250/com.taotao.search.service.SearchItemService?application=taotao-web&category=consumers&check=false&dubbo=2.5.3&interface=com.taotao.search.service.SearchItemService&methods=getItemList,searchPage,search,importItemsToIndex&pid=6676&revision=1.0-SNAPSHOT&side=consumer&timestamp=1537493753264, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:35:53,280 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 20,1  replyHeader:: 20,4294971100,-110  request:: '/dubbo,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:53,295 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 21,1  replyHeader:: 21,4294971101,-110  request:: '/dubbo/com.taotao.search.service.SearchItemService,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:53,295 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 22,1  replyHeader:: 22,4294971102,-110  request:: '/dubbo/com.taotao.search.service.SearchItemService/consumers,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:53,295 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 23,1  replyHeader:: 23,4294971103,0  request:: '/dubbo/com.taotao.search.service.SearchItemService/consumers/consumer%253A%252F%252F192.168.1.250%252Fcom.taotao.search.service.SearchItemService%253Fapplication%253Dtaotao-web%2526category%253Dconsumers%2526check%253Dfalse%2526dubbo%253D2.5.3%2526interface%253Dcom.taotao.search.service.SearchItemService%2526methods%253DgetItemList%252CsearchPage%252Csearch%252CimportItemsToIndex%2526pid%253D6676%2526revision%253D1.0-SNAPSHOT%2526side%253Dconsumer%2526timestamp%253D1537493753264,,v{s{31,s{'world,'anyone}}},1  response:: '/dubbo/com.taotao.search.service.SearchItemService/consumers/consumer%253A%252F%252F192.168.1.250%252Fcom.taotao.search.service.SearchItemService%253Fapplication%253Dtaotao-web%2526category%253Dconsumers%2526check%253Dfalse%2526dubbo%253D2.5.3%2526interface%253Dcom.taotao.search.service.SearchItemService%2526methods%253DgetItemList%252CsearchPage%252Csearch%252CimportItemsToIndex%2526pid%253D6676%2526revision%253D1.0-SNAPSHOT%2526side%253Dconsumer%2526timestamp%253D1537493753264 
+
+
+[INFO ] 2018-09-21 09:35:53,295 method:com.alibaba.dubbo.registry.support.AbstractRegistry.subscribe(AbstractRegistry.java:325)
+ [DUBBO] Subscribe: consumer://192.168.1.250/com.taotao.search.service.SearchItemService?application=taotao-web&category=providers,configurators,routers&dubbo=2.5.3&interface=com.taotao.search.service.SearchItemService&methods=getItemList,searchPage,search,importItemsToIndex&pid=6676&revision=1.0-SNAPSHOT&side=consumer&timestamp=1537493753264, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:35:53,295 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 24,1  replyHeader:: 24,4294971104,-110  request:: '/dubbo,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:53,311 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 25,1  replyHeader:: 25,4294971105,-110  request:: '/dubbo/com.taotao.search.service.SearchItemService,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:53,358 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 26,1  replyHeader:: 26,4294971106,-110  request:: '/dubbo/com.taotao.search.service.SearchItemService/providers,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:53,358 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 27,3  replyHeader:: 27,4294971106,0  request:: '/dubbo/com.taotao.search.service.SearchItemService/providers,T  response:: s{4294970149,4294970149,1537263569445,1537263569445,0,27,0,0,0,1,4294971082} 
+
+
+[DEBUG] 2018-09-21 09:35:53,373 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 28,8  replyHeader:: 28,4294971106,0  request:: '/dubbo/com.taotao.search.service.SearchItemService/providers,T  response:: v{'dubbo%253A%252F%252F192.168.1.250%253A20883%252Fcom.taotao.search.service.SearchItemService%253Fanyhost%253Dtrue%2526application%253Dtaotao-search%2526dubbo%253D2.5.3%2526interface%253Dcom.taotao.search.service.SearchItemService%2526methods%253DgetItemList%252CsearchPage%252Csearch%252CimportItemsToIndex%2526pid%253D8736%2526side%253Dprovider%2526timeout%253D300000%2526timestamp%253D1537493681536} 
+
+
+[DEBUG] 2018-09-21 09:35:53,373 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 29,1  replyHeader:: 29,4294971107,-110  request:: '/dubbo,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:53,405 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 30,1  replyHeader:: 30,4294971108,-110  request:: '/dubbo/com.taotao.search.service.SearchItemService,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:53,451 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 31,1  replyHeader:: 31,4294971109,-110  request:: '/dubbo/com.taotao.search.service.SearchItemService/configurators,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:53,483 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 32,3  replyHeader:: 32,4294971109,0  request:: '/dubbo/com.taotao.search.service.SearchItemService/configurators,T  response:: s{4294970152,4294970152,1537263569463,1537263569463,0,0,0,0,0,0,4294970152} 
+
+
+[DEBUG] 2018-09-21 09:35:53,483 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 33,8  replyHeader:: 33,4294971109,0  request:: '/dubbo/com.taotao.search.service.SearchItemService/configurators,T  response:: v{} 
+
+
+[DEBUG] 2018-09-21 09:35:53,545 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 34,1  replyHeader:: 34,4294971110,-110  request:: '/dubbo,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:53,561 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 35,1  replyHeader:: 35,4294971111,-110  request:: '/dubbo/com.taotao.search.service.SearchItemService,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:53,623 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 36,1  replyHeader:: 36,4294971112,-110  request:: '/dubbo/com.taotao.search.service.SearchItemService/routers,,v{s{31,s{'world,'anyone}}},0  response::  
+
+
+[DEBUG] 2018-09-21 09:35:53,639 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 37,3  replyHeader:: 37,4294971112,0  request:: '/dubbo/com.taotao.search.service.SearchItemService/routers,T  response:: s{4294970155,4294970155,1537263569469,1537263569469,0,0,0,0,0,0,4294970155} 
+
+
+[DEBUG] 2018-09-21 09:35:53,639 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 38,8  replyHeader:: 38,4294971112,0  request:: '/dubbo/com.taotao.search.service.SearchItemService/routers,T  response:: v{} 
+
+
+[INFO ] 2018-09-21 09:35:53,639 method:com.alibaba.dubbo.registry.support.AbstractRegistry.notify(AbstractRegistry.java:422)
+ [DUBBO] Notify urls for subscribe url consumer://192.168.1.250/com.taotao.search.service.SearchItemService?application=taotao-web&category=providers,configurators,routers&dubbo=2.5.3&interface=com.taotao.search.service.SearchItemService&methods=getItemList,searchPage,search,importItemsToIndex&pid=6676&revision=1.0-SNAPSHOT&side=consumer&timestamp=1537493753264, urls: [dubbo://192.168.1.250:20883/com.taotao.search.service.SearchItemService?anyhost=true&application=taotao-search&dubbo=2.5.3&interface=com.taotao.search.service.SearchItemService&methods=getItemList,searchPage,search,importItemsToIndex&pid=8736&side=provider&timeout=300000&timestamp=1537493681536, empty://192.168.1.250/com.taotao.search.service.SearchItemService?application=taotao-web&category=configurators&dubbo=2.5.3&interface=com.taotao.search.service.SearchItemService&methods=getItemList,searchPage,search,importItemsToIndex&pid=6676&revision=1.0-SNAPSHOT&side=consumer&timestamp=1537493753264, empty://192.168.1.250/com.taotao.search.service.SearchItemService?application=taotao-web&category=routers&dubbo=2.5.3&interface=com.taotao.search.service.SearchItemService&methods=getItemList,searchPage,search,importItemsToIndex&pid=6676&revision=1.0-SNAPSHOT&side=consumer&timestamp=1537493753264], dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[INFO ] 2018-09-21 09:35:53,670 method:com.alibaba.dubbo.remoting.transport.AbstractClient.connect(AbstractClient.java:287)
+ [DUBBO] Successed connect to server /192.168.1.250:20883 from NettyClient 192.168.1.250 using dubbo version 2.5.3, channel is NettyChannel [channel=[id: 0x2a6ffce4, /192.168.1.250:39162 => /192.168.1.250:20883]], dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[INFO ] 2018-09-21 09:35:53,670 method:com.alibaba.dubbo.remoting.transport.AbstractClient.<init>(AbstractClient.java:105)
+ [DUBBO] Start NettyClient win7-PC/192.168.1.250 connect to the server /192.168.1.250:20883, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[INFO ] 2018-09-21 09:35:53,670 method:com.alibaba.dubbo.config.ReferenceConfig.createProxy(ReferenceConfig.java:423)
+ [DUBBO] Refer dubbo service com.taotao.search.service.SearchItemService from url zookeeper://192.168.1.236:2181/com.alibaba.dubbo.registry.RegistryService?anyhost=true&application=taotao-web&check=false&dubbo=2.5.3&interface=com.taotao.search.service.SearchItemService&methods=getItemList,searchPage,search,importItemsToIndex&pid=6676&revision=1.0-SNAPSHOT&side=consumer&timeout=300000&timestamp=1537493753264, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:35:53,685 method:org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.registerDependentBeans(AutowiredAnnotationBeanPostProcessor.java:492)
+Autowiring by type from bean name 'pageController' to bean named 'searchItemService'
+
+
+[DEBUG] 2018-09-21 09:35:53,685 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:484)
+Finished creating instance of bean 'pageController'
+
+
+[DEBUG] 2018-09-21 09:35:53,685 method:org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:221)
+Creating shared instance of singleton bean 'pictureController'
+
+
+[DEBUG] 2018-09-21 09:35:53,685 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:448)
+Creating instance of bean 'pictureController'
+
+
+[DEBUG] 2018-09-21 09:35:53,685 method:org.springframework.beans.factory.annotation.InjectionMetadata.checkConfigMembers(InjectionMetadata.java:72)
+Registered injected element on class [com.taotao.controller.PictureController]: AutowiredFieldElement for private java.lang.String com.taotao.controller.PictureController.IMAGE_SERVER_URL
+
+
+[DEBUG] 2018-09-21 09:35:53,685 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:529)
+Eagerly caching bean 'pictureController' to allow for resolving potential circular references
+
+
+[DEBUG] 2018-09-21 09:35:53,685 method:org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:86)
+Processing injected element of bean 'pictureController': AutowiredFieldElement for private java.lang.String com.taotao.controller.PictureController.IMAGE_SERVER_URL
+
+
+[DEBUG] 2018-09-21 09:35:53,685 method:org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:81)
+Searching for key 'IMAGE_SERVER_URL' in [environmentProperties]
+
+
+[DEBUG] 2018-09-21 09:35:53,685 method:org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:81)
+Searching for key 'IMAGE_SERVER_URL' in [servletConfigInitParams]
+
+
+[DEBUG] 2018-09-21 09:35:53,685 method:org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:81)
+Searching for key 'IMAGE_SERVER_URL' in [servletContextInitParams]
+
+
+[DEBUG] 2018-09-21 09:35:53,685 method:org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:81)
+Searching for key 'IMAGE_SERVER_URL' in [jndiProperties]
+
+
+[DEBUG] 2018-09-21 09:35:53,685 method:org.springframework.jndi.JndiTemplate.lookup(JndiTemplate.java:150)
+Looking up JNDI object with name [java:comp/env/IMAGE_SERVER_URL]
+
+
+[DEBUG] 2018-09-21 09:35:53,685 method:org.springframework.jndi.JndiLocatorSupport.lookup(JndiLocatorSupport.java:101)
+Converted JNDI name [java:comp/env/IMAGE_SERVER_URL] not found - trying original name [IMAGE_SERVER_URL]. javax.naming.NameNotFoundException: Name [IMAGE_SERVER_URL] is not bound in this Context. Unable to find [IMAGE_SERVER_URL].
+
+
+[DEBUG] 2018-09-21 09:35:53,685 method:org.springframework.jndi.JndiTemplate.lookup(JndiTemplate.java:150)
+Looking up JNDI object with name [IMAGE_SERVER_URL]
+
+
+[DEBUG] 2018-09-21 09:35:53,685 method:org.springframework.jndi.JndiPropertySource.getProperty(JndiPropertySource.java:90)
+JNDI lookup for name [IMAGE_SERVER_URL] threw NamingException with message: Name [IMAGE_SERVER_URL] is not bound in this Context. Unable to find [IMAGE_SERVER_URL].. Returning null.
+
+
+[DEBUG] 2018-09-21 09:35:53,685 method:org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:81)
+Searching for key 'IMAGE_SERVER_URL' in [systemProperties]
+
+
+[DEBUG] 2018-09-21 09:35:53,685 method:org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:81)
+Searching for key 'IMAGE_SERVER_URL' in [systemEnvironment]
+
+
+[DEBUG] 2018-09-21 09:35:53,685 method:org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:103)
+Could not find key 'IMAGE_SERVER_URL' in any property source. Returning [null]
+
+
+[DEBUG] 2018-09-21 09:35:53,685 method:org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:81)
+Searching for key 'IMAGE_SERVER_URL' in [localProperties]
+
+
+[DEBUG] 2018-09-21 09:35:53,685 method:org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:90)
+Found key 'IMAGE_SERVER_URL' in [localProperties] with type [String] and value 'http://192.168.1.236/'
+
+
+[DEBUG] 2018-09-21 09:35:53,701 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:484)
+Finished creating instance of bean 'pictureController'
+
+
+[DEBUG] 2018-09-21 09:35:53,701 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+
+
+[DEBUG] 2018-09-21 09:35:53,701 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+
+
+[DEBUG] 2018-09-21 09:35:53,701 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+
+
+[DEBUG] 2018-09-21 09:35:53,701 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+
+
+[DEBUG] 2018-09-21 09:35:53,701 method:org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:221)
+Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+
+
+[DEBUG] 2018-09-21 09:35:53,701 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:448)
+Creating instance of bean 'org.springframework.context.event.internalEventListenerProcessor'
+
+
+[DEBUG] 2018-09-21 09:35:53,701 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:529)
+Eagerly caching bean 'org.springframework.context.event.internalEventListenerProcessor' to allow for resolving potential circular references
+
+
+[DEBUG] 2018-09-21 09:35:53,701 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:484)
+Finished creating instance of bean 'org.springframework.context.event.internalEventListenerProcessor'
+
+
+[DEBUG] 2018-09-21 09:35:53,701 method:org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:221)
+Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+
+
+[DEBUG] 2018-09-21 09:35:53,701 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:448)
+Creating instance of bean 'org.springframework.context.event.internalEventListenerFactory'
+
+
+[DEBUG] 2018-09-21 09:35:53,701 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:529)
+Eagerly caching bean 'org.springframework.context.event.internalEventListenerFactory' to allow for resolving potential circular references
+
+
+[DEBUG] 2018-09-21 09:35:53,701 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:484)
+Finished creating instance of bean 'org.springframework.context.event.internalEventListenerFactory'
+
+
+[DEBUG] 2018-09-21 09:35:53,701 method:org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:221)
+Creating shared instance of singleton bean 'multipartResolver'
+
+
+[DEBUG] 2018-09-21 09:35:53,701 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:448)
+Creating instance of bean 'multipartResolver'
+
+
+[DEBUG] 2018-09-21 09:35:53,717 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:529)
+Eagerly caching bean 'multipartResolver' to allow for resolving potential circular references
+
+
+[DEBUG] 2018-09-21 09:35:53,732 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:484)
+Finished creating instance of bean 'multipartResolver'
+
+
+[DEBUG] 2018-09-21 09:35:53,732 method:org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:221)
+Creating shared instance of singleton bean 'com.taotao.exception.GlobalExceptionResolver#0'
+
+
+[DEBUG] 2018-09-21 09:35:53,732 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:448)
+Creating instance of bean 'com.taotao.exception.GlobalExceptionResolver#0'
+
+
+[DEBUG] 2018-09-21 09:35:53,732 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:529)
+Eagerly caching bean 'com.taotao.exception.GlobalExceptionResolver#0' to allow for resolving potential circular references
+
+
+[DEBUG] 2018-09-21 09:35:53,748 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:484)
+Finished creating instance of bean 'com.taotao.exception.GlobalExceptionResolver#0'
+
+
+[DEBUG] 2018-09-21 09:35:53,748 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'taotao-web'
+
+
+[DEBUG] 2018-09-21 09:35:53,748 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'com.alibaba.dubbo.config.RegistryConfig'
+
+
+[DEBUG] 2018-09-21 09:35:53,748 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'itemService'
+
+
+[DEBUG] 2018-09-21 09:35:53,748 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'searchItemService'
+
+
+[DEBUG] 2018-09-21 09:35:53,748 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor'
+
+
+[DEBUG] 2018-09-21 09:35:53,748 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor.enhancedConfigurationProcessor'
+
+
+[DEBUG] 2018-09-21 09:35:53,748 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+
+
+[DEBUG] 2018-09-21 09:35:53,779 method:org.springframework.context.support.AbstractApplicationContext.initLifecycleProcessor(AbstractApplicationContext.java:769)
+Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@14987e43]
+
+
+[DEBUG] 2018-09-21 09:35:53,779 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'lifecycleProcessor'
+
+
+[DEBUG] 2018-09-21 09:35:53,795 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'mvcResourceUrlProvider'
+
+
+[DEBUG] 2018-09-21 09:35:53,795 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'multipartResolver'
+
+
+[DEBUG] 2018-09-21 09:35:53,795 method:org.springframework.web.servlet.DispatcherServlet.initMultipartResolver(DispatcherServlet.java:499)
+Using MultipartResolver [org.springframework.web.multipart.commons.CommonsMultipartResolver@75ae472]
+
+
+[DEBUG] 2018-09-21 09:35:53,795 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:448)
+Creating instance of bean 'org.springframework.web.servlet.i18n.AcceptHeaderLocaleResolver'
+
+
+[DEBUG] 2018-09-21 09:35:53,795 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:484)
+Finished creating instance of bean 'org.springframework.web.servlet.i18n.AcceptHeaderLocaleResolver'
+
+
+[DEBUG] 2018-09-21 09:35:53,795 method:org.springframework.web.servlet.DispatcherServlet.initLocaleResolver(DispatcherServlet.java:528)
+Unable to locate LocaleResolver with name 'localeResolver': using default [org.springframework.web.servlet.i18n.AcceptHeaderLocaleResolver@7fd06b5f]
+
+
+[DEBUG] 2018-09-21 09:35:53,795 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:448)
+Creating instance of bean 'org.springframework.web.servlet.theme.FixedThemeResolver'
+
+
+[DEBUG] 2018-09-21 09:35:53,810 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:484)
+Finished creating instance of bean 'org.springframework.web.servlet.theme.FixedThemeResolver'
+
+
+[DEBUG] 2018-09-21 09:35:53,810 method:org.springframework.web.servlet.DispatcherServlet.initThemeResolver(DispatcherServlet.java:550)
+Unable to locate ThemeResolver with name 'themeResolver': using default [org.springframework.web.servlet.theme.FixedThemeResolver@6dbf940d]
+
+
+[DEBUG] 2018-09-21 09:35:53,810 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping'
+
+
+[DEBUG] 2018-09-21 09:35:53,810 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping'
+
+
+[DEBUG] 2018-09-21 09:35:53,810 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#0'
+
+
+[DEBUG] 2018-09-21 09:35:53,810 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#1'
+
+
+[DEBUG] 2018-09-21 09:35:53,810 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter'
+
+
+[DEBUG] 2018-09-21 09:35:53,810 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter'
+
+
+[DEBUG] 2018-09-21 09:35:53,810 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter'
+
+
+[DEBUG] 2018-09-21 09:35:53,810 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver#0'
+
+
+[DEBUG] 2018-09-21 09:35:53,810 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.web.servlet.mvc.annotation.ResponseStatusExceptionResolver#0'
+
+
+[DEBUG] 2018-09-21 09:35:53,810 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver#0'
+
+
+[DEBUG] 2018-09-21 09:35:53,810 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'com.taotao.exception.GlobalExceptionResolver#0'
+
+
+[DEBUG] 2018-09-21 09:35:53,810 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:448)
+Creating instance of bean 'org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator'
+
+
+[DEBUG] 2018-09-21 09:35:53,810 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:484)
+Finished creating instance of bean 'org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator'
+
+
+[DEBUG] 2018-09-21 09:35:53,810 method:org.springframework.web.servlet.DispatcherServlet.initRequestToViewNameTranslator(DispatcherServlet.java:688)
+Unable to locate RequestToViewNameTranslator with name 'viewNameTranslator': using default [org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@4a9d86ab]
+
+
+[DEBUG] 2018-09-21 09:35:53,810 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.web.servlet.view.InternalResourceViewResolver#0'
+
+
+[DEBUG] 2018-09-21 09:35:53,826 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:448)
+Creating instance of bean 'org.springframework.web.servlet.support.SessionFlashMapManager'
+
+
+[DEBUG] 2018-09-21 09:35:53,826 method:org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:484)
+Finished creating instance of bean 'org.springframework.web.servlet.support.SessionFlashMapManager'
+
+
+[DEBUG] 2018-09-21 09:35:53,826 method:org.springframework.web.servlet.DispatcherServlet.initFlashMapManager(DispatcherServlet.java:750)
+Unable to locate FlashMapManager with name 'flashMapManager': using default [org.springframework.web.servlet.support.SessionFlashMapManager@6e93057b]
+
+
+[DEBUG] 2018-09-21 09:35:53,826 method:org.springframework.web.servlet.resource.ResourceUrlProvider.detectResourceHandlers(ResourceUrlProvider.java:139)
+Looking for resource handler mappings
+
+
+[DEBUG] 2018-09-21 09:35:53,826 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#0'
+
+
+[DEBUG] 2018-09-21 09:35:53,826 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#1'
+
+
+[DEBUG] 2018-09-21 09:35:53,826 method:org.springframework.web.servlet.resource.ResourceUrlProvider.detectResourceHandlers(ResourceUrlProvider.java:151)
+Found resource handler mapping: URL pattern="/css/**", locations=[ServletContext resource [/css/]], resolvers=[org.springframework.web.servlet.resource.PathResourceResolver@764d06f3]
+
+
+[DEBUG] 2018-09-21 09:35:53,826 method:org.springframework.web.servlet.resource.ResourceUrlProvider.detectResourceHandlers(ResourceUrlProvider.java:151)
+Found resource handler mapping: URL pattern="/js/**", locations=[ServletContext resource [/js/]], resolvers=[org.springframework.web.servlet.resource.PathResourceResolver@3b037832]
+
+
+[DEBUG] 2018-09-21 09:35:53,826 method:org.springframework.web.servlet.resource.ResourceUrlProvider.detectResourceHandlers(ResourceUrlProvider.java:139)
+Looking for resource handler mappings
+
+
+[DEBUG] 2018-09-21 09:35:53,826 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#0'
+
+
+[DEBUG] 2018-09-21 09:35:53,826 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#1'
+
+
+[DEBUG] 2018-09-21 09:35:53,826 method:org.springframework.web.servlet.resource.ResourceUrlProvider.detectResourceHandlers(ResourceUrlProvider.java:151)
+Found resource handler mapping: URL pattern="/css/**", locations=[ServletContext resource [/css/]], resolvers=[org.springframework.web.servlet.resource.PathResourceResolver@764d06f3]
+
+
+[DEBUG] 2018-09-21 09:35:53,826 method:org.springframework.web.servlet.resource.ResourceUrlProvider.detectResourceHandlers(ResourceUrlProvider.java:151)
+Found resource handler mapping: URL pattern="/js/**", locations=[ServletContext resource [/js/]], resolvers=[org.springframework.web.servlet.resource.PathResourceResolver@3b037832]
+
+
+[DEBUG] 2018-09-21 09:35:53,841 method:org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:81)
+Searching for key 'spring.liveBeansView.mbeanDomain' in [servletConfigInitParams]
+
+
+[DEBUG] 2018-09-21 09:35:53,841 method:org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:81)
+Searching for key 'spring.liveBeansView.mbeanDomain' in [servletContextInitParams]
+
+
+[DEBUG] 2018-09-21 09:35:53,841 method:org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:81)
+Searching for key 'spring.liveBeansView.mbeanDomain' in [jndiProperties]
+
+
+[DEBUG] 2018-09-21 09:35:53,841 method:org.springframework.jndi.JndiTemplate.lookup(JndiTemplate.java:150)
+Looking up JNDI object with name [java:comp/env/spring.liveBeansView.mbeanDomain]
+
+
+[DEBUG] 2018-09-21 09:35:53,841 method:org.springframework.jndi.JndiLocatorSupport.lookup(JndiLocatorSupport.java:101)
+Converted JNDI name [java:comp/env/spring.liveBeansView.mbeanDomain] not found - trying original name [spring.liveBeansView.mbeanDomain]. javax.naming.NameNotFoundException: Name [spring.liveBeansView.mbeanDomain] is not bound in this Context. Unable to find [spring.liveBeansView.mbeanDomain].
+
+
+[DEBUG] 2018-09-21 09:35:53,841 method:org.springframework.jndi.JndiTemplate.lookup(JndiTemplate.java:150)
+Looking up JNDI object with name [spring.liveBeansView.mbeanDomain]
+
+
+[DEBUG] 2018-09-21 09:35:53,841 method:org.springframework.jndi.JndiPropertySource.getProperty(JndiPropertySource.java:90)
+JNDI lookup for name [spring.liveBeansView.mbeanDomain] threw NamingException with message: Name [spring.liveBeansView.mbeanDomain] is not bound in this Context. Unable to find [spring.liveBeansView.mbeanDomain].. Returning null.
+
+
+[DEBUG] 2018-09-21 09:35:53,841 method:org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:81)
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemProperties]
+
+
+[DEBUG] 2018-09-21 09:35:53,841 method:org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:81)
+Searching for key 'spring.liveBeansView.mbeanDomain' in [systemEnvironment]
+
+
+[DEBUG] 2018-09-21 09:35:53,841 method:org.springframework.core.env.PropertySourcesPropertyResolver.getProperty(PropertySourcesPropertyResolver.java:103)
+Could not find key 'spring.liveBeansView.mbeanDomain' in any property source. Returning [null]
+
+
+[DEBUG] 2018-09-21 09:35:53,841 method:org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:568)
+Published WebApplicationContext of servlet 'taotao-manager-web' as ServletContext attribute with name [org.springframework.web.servlet.FrameworkServlet.CONTEXT.taotao-manager-web]
+
+
+[INFO ] 2018-09-21 09:35:53,841 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
+FrameworkServlet 'taotao-manager-web': initialization completed in 5462 ms
+
+
+[DEBUG] 2018-09-21 09:35:53,841 method:org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:139)
+Servlet 'taotao-manager-web' configured successfully
+
+
+[DEBUG] 2018-09-21 09:36:04,569 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 842ms
+
+
+[DEBUG] 2018-09-21 09:36:14,553 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:36:24,568 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:36:34,600 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 31ms
+
+
+[DEBUG] 2018-09-21 09:36:44,584 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 6ms
+
+
+[DEBUG] 2018-09-21 09:36:53,320 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:36:53,679 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20883, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:36:54,631 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 20ms
+
+
+[DEBUG] 2018-09-21 09:36:54,849 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:36:55,504 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-2, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:37:04,633 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 3ms
+
+
+[DEBUG] 2018-09-21 09:37:11,289 method:org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:861)
+DispatcherServlet with name 'taotao-manager-web' processing GET request for [/item/add]
+
+
+[DEBUG] 2018-09-21 09:37:11,292 method:org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.getHandlerInternal(AbstractHandlerMethodMapping.java:318)
+Looking up handler method for path /item/add
+
+
+[DEBUG] 2018-09-21 09:37:11,298 method:org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.getHandlerInternal(AbstractHandlerMethodMapping.java:325)
+Returning handler method [public java.lang.Object com.taotao.controller.ItemController.getItemList(com.taotao.pojo.TbItem,java.lang.String)]
+
+
+[DEBUG] 2018-09-21 09:37:11,298 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'itemController'
+
+
+[DEBUG] 2018-09-21 09:37:11,300 method:org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:947)
+Last-Modified value for [/item/add] is: -1
+
+
+[DEBUG] 2018-09-21 09:37:14,691 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 26ms
+
+
+[DEBUG] 2018-09-21 09:37:14,800 method:com.alibaba.dubbo.remoting.transport.DecodeHandler.decode(DecodeHandler.java:60)
+ [DUBBO] Decode decodeable message com.alibaba.dubbo.rpc.protocol.dubbo.DecodeableRpcResult, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:37:14,886 method:org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:225)
+Written [com.taotao.common.pojo.TaotaoResult@655e513f] as "application/json;charset=UTF-8" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@13283317]
+
+
+[DEBUG] 2018-09-21 09:37:14,886 method:org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1034)
+Null ModelAndView returned to DispatcherServlet with name 'taotao-manager-web': assuming HandlerAdapter completed request handling
+
+
+[DEBUG] 2018-09-21 09:37:14,887 method:org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:999)
+Successfully completed request
+
+
+[DEBUG] 2018-09-21 09:37:24,693 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:37:34,694 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:37:44,696 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:37:53,713 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20883, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:37:53,713 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-2, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:37:54,712 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:38:04,713 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:38:14,715 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:38:24,730 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:38:34,745 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 09:38:44,748 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 09:38:53,345 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:38:53,345 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:38:53,720 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20883, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:38:53,720 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-2, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:38:54,749 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:39:04,765 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:39:12,388 method:org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:861)
+DispatcherServlet with name 'taotao-manager-web' processing GET request for [/item/add]
+
+
+[DEBUG] 2018-09-21 09:39:12,388 method:org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.getHandlerInternal(AbstractHandlerMethodMapping.java:318)
+Looking up handler method for path /item/add
+
+
+[DEBUG] 2018-09-21 09:39:12,389 method:org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.getHandlerInternal(AbstractHandlerMethodMapping.java:325)
+Returning handler method [public java.lang.Object com.taotao.controller.ItemController.getItemList(com.taotao.pojo.TbItem,java.lang.String)]
+
+
+[DEBUG] 2018-09-21 09:39:12,389 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'itemController'
+
+
+[DEBUG] 2018-09-21 09:39:12,389 method:org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:947)
+Last-Modified value for [/item/add] is: -1
+
+
+[DEBUG] 2018-09-21 09:39:13,888 method:com.alibaba.dubbo.remoting.transport.DecodeHandler.decode(DecodeHandler.java:60)
+ [DUBBO] Decode decodeable message com.alibaba.dubbo.rpc.protocol.dubbo.DecodeableRpcResult, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:39:13,890 method:org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:225)
+Written [com.taotao.common.pojo.TaotaoResult@287e5239] as "application/json;charset=UTF-8" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@13283317]
+
+
+[DEBUG] 2018-09-21 09:39:13,891 method:org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1034)
+Null ModelAndView returned to DispatcherServlet with name 'taotao-manager-web': assuming HandlerAdapter completed request handling
+
+
+[DEBUG] 2018-09-21 09:39:13,891 method:org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:999)
+Successfully completed request
+
+
+[DEBUG] 2018-09-21 09:39:14,768 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:39:24,834 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 57ms
+
+
+[DEBUG] 2018-09-21 09:39:34,943 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:39:44,635 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:766)
+Got notification sessionid:0x165d79b826f004f
+
+
+[DEBUG] 2018-09-21 09:39:44,635 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:788)
+Got WatchedEvent state:SyncConnected type:NodeChildrenChanged path:/dubbo/com.taotao.search.service.SearchItemService/providers for sessionid 0x165d79b826f004f
+
+
+[DEBUG] 2018-09-21 09:39:44,635 method:org.I0Itec.zkclient.ZkClient.process(ZkClient.java:351)
+Received event: WatchedEvent state:SyncConnected type:NodeChildrenChanged path:/dubbo/com.taotao.search.service.SearchItemService/providers
+
+
+[DEBUG] 2018-09-21 09:39:44,635 method:org.I0Itec.zkclient.ZkEventThread.send(ZkEventThread.java:88)
+New event: ZkEvent[Children of /dubbo/com.taotao.search.service.SearchItemService/providers changed sent to com.alibaba.dubbo.remoting.zookeeper.zkclient.ZkclientZookeeperClient$2@213806e9]
+
+
+[DEBUG] 2018-09-21 09:39:44,635 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 09:39:44,635 method:org.I0Itec.zkclient.ZkEventThread.run(ZkEventThread.java:69)
+Delivering event #1 ZkEvent[Children of /dubbo/com.taotao.search.service.SearchItemService/providers changed sent to com.alibaba.dubbo.remoting.zookeeper.zkclient.ZkclientZookeeperClient$2@213806e9]
+
+
+[DEBUG] 2018-09-21 09:39:44,635 method:org.I0Itec.zkclient.ZkClient.process(ZkClient.java:395)
+Leaving process event
+
+
+[DEBUG] 2018-09-21 09:39:44,635 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 39,3  replyHeader:: 39,4294971140,0  request:: '/dubbo/com.taotao.search.service.SearchItemService/providers,T  response:: s{4294970149,4294970149,1537263569445,1537263569445,0,28,0,0,0,0,4294971140} 
+
+
+[DEBUG] 2018-09-21 09:39:44,635 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:843)
+Reading reply sessionid:0x165d79b826f004f, packet:: clientPath:null serverPath:null finished:false header:: 40,8  replyHeader:: 40,4294971140,0  request:: '/dubbo/com.taotao.search.service.SearchItemService/providers,T  response:: v{} 
+
+
+[INFO ] 2018-09-21 09:39:44,635 method:com.alibaba.dubbo.registry.support.AbstractRegistry.notify(AbstractRegistry.java:422)
+ [DUBBO] Notify urls for subscribe url consumer://192.168.1.250/com.taotao.search.service.SearchItemService?application=taotao-web&category=providers,configurators,routers&dubbo=2.5.3&interface=com.taotao.search.service.SearchItemService&methods=getItemList,searchPage,search,importItemsToIndex&pid=6676&revision=1.0-SNAPSHOT&side=consumer&timestamp=1537493753264, urls: [empty://192.168.1.250/com.taotao.search.service.SearchItemService?application=taotao-web&category=providers&dubbo=2.5.3&interface=com.taotao.search.service.SearchItemService&methods=getItemList,searchPage,search,importItemsToIndex&pid=6676&revision=1.0-SNAPSHOT&side=consumer&timestamp=1537493753264], dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[INFO ] 2018-09-21 09:39:44,635 method:com.alibaba.dubbo.remoting.transport.netty.NettyChannel.close(NettyChannel.java:135)
+ [DUBBO] Close netty channel [id: 0x2a6ffce4, /192.168.1.250:39162 => /192.168.1.250:20883], dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[INFO ] 2018-09-21 09:39:44,635 method:com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1.disconnected(DubboProtocol.java:130)
+ [DUBBO] disconected from /192.168.1.250:20883,url:dubbo://192.168.1.250:20883/com.taotao.search.service.SearchItemService?anyhost=true&application=taotao-web&check=false&codec=dubbo&dubbo=2.5.3&heartbeat=60000&interface=com.taotao.search.service.SearchItemService&methods=getItemList,searchPage,search,importItemsToIndex&pid=6676&revision=1.0-SNAPSHOT&side=consumer&timeout=300000&timestamp=1537493753264, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:39:44,635 method:org.I0Itec.zkclient.ZkEventThread.run(ZkEventThread.java:79)
+Delivering event #1 done
+
+
+[DEBUG] 2018-09-21 09:39:54,635 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:40:04,651 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:40:14,666 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:40:24,667 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:40:34,667 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:40:44,682 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:40:53,357 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:40:53,357 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:40:54,683 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 09:41:04,687 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:41:14,936 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 204ms
+
+
+[DEBUG] 2018-09-21 09:41:24,763 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 09:41:34,765 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:41:44,780 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:41:53,376 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:41:53,376 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:41:54,795 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:42:04,797 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:42:14,799 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:42:24,814 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:42:34,820 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:42:46,882 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1159ms
+
+
+[DEBUG] 2018-09-21 09:42:53,387 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:42:53,387 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:42:56,897 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:43:06,899 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:43:16,902 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 09:43:26,917 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:43:36,932 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:43:46,982 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 22ms
+
+
+[DEBUG] 2018-09-21 09:43:53,396 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:43:53,396 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:43:56,969 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 4ms
+
+
+[DEBUG] 2018-09-21 09:44:06,984 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:44:16,985 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:44:26,987 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:44:37,002 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:44:47,005 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:44:53,401 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:44:53,401 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:44:57,007 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:45:07,023 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:45:17,038 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:45:27,038 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:45:37,039 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:45:47,040 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:45:53,405 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:45:53,405 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:45:57,041 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:46:02,573 method:org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:861)
+DispatcherServlet with name 'taotao-manager-web' processing GET request for [/item/add]
+
+
+[DEBUG] 2018-09-21 09:46:02,574 method:org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.getHandlerInternal(AbstractHandlerMethodMapping.java:318)
+Looking up handler method for path /item/add
+
+
+[DEBUG] 2018-09-21 09:46:02,574 method:org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.getHandlerInternal(AbstractHandlerMethodMapping.java:325)
+Returning handler method [public java.lang.Object com.taotao.controller.ItemController.getItemList(com.taotao.pojo.TbItem,java.lang.String)]
+
+
+[DEBUG] 2018-09-21 09:46:02,574 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'itemController'
+
+
+[DEBUG] 2018-09-21 09:46:02,575 method:org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:947)
+Last-Modified value for [/item/add] is: -1
+
+
+[DEBUG] 2018-09-21 09:46:04,388 method:com.alibaba.dubbo.remoting.transport.DecodeHandler.decode(DecodeHandler.java:60)
+ [DUBBO] Decode decodeable message com.alibaba.dubbo.rpc.protocol.dubbo.DecodeableRpcResult, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:46:04,390 method:org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:225)
+Written [com.taotao.common.pojo.TaotaoResult@3f72b08] as "application/json;charset=UTF-8" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@13283317]
+
+
+[DEBUG] 2018-09-21 09:46:04,392 method:org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1034)
+Null ModelAndView returned to DispatcherServlet with name 'taotao-manager-web': assuming HandlerAdapter completed request handling
+
+
+[DEBUG] 2018-09-21 09:46:04,392 method:org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:999)
+Successfully completed request
+
+
+[DEBUG] 2018-09-21 09:46:07,047 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:46:17,062 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:46:27,077 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:46:37,091 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:46:47,092 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:46:57,107 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 09:47:04,148 method:org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:861)
+DispatcherServlet with name 'taotao-manager-web' processing GET request for [/item/add]
+
+
+[DEBUG] 2018-09-21 09:47:04,148 method:org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.getHandlerInternal(AbstractHandlerMethodMapping.java:318)
+Looking up handler method for path /item/add
+
+
+[DEBUG] 2018-09-21 09:47:04,149 method:org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.getHandlerInternal(AbstractHandlerMethodMapping.java:325)
+Returning handler method [public java.lang.Object com.taotao.controller.ItemController.getItemList(com.taotao.pojo.TbItem,java.lang.String)]
+
+
+[DEBUG] 2018-09-21 09:47:04,149 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'itemController'
+
+
+[DEBUG] 2018-09-21 09:47:04,149 method:org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:947)
+Last-Modified value for [/item/add] is: -1
+
+
+[DEBUG] 2018-09-21 09:47:06,583 method:com.alibaba.dubbo.remoting.transport.DecodeHandler.decode(DecodeHandler.java:60)
+ [DUBBO] Decode decodeable message com.alibaba.dubbo.rpc.protocol.dubbo.DecodeableRpcResult, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:47:06,586 method:org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:225)
+Written [com.taotao.common.pojo.TaotaoResult@434d634f] as "application/json;charset=UTF-8" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@13283317]
+
+
+[DEBUG] 2018-09-21 09:47:06,586 method:org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1034)
+Null ModelAndView returned to DispatcherServlet with name 'taotao-manager-web': assuming HandlerAdapter completed request handling
+
+
+[DEBUG] 2018-09-21 09:47:06,587 method:org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:999)
+Successfully completed request
+
+
+[DEBUG] 2018-09-21 09:47:07,107 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:47:17,111 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:47:27,126 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 9ms
+
+
+[DEBUG] 2018-09-21 09:47:37,126 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:47:47,361 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 14ms
+
+
+[DEBUG] 2018-09-21 09:47:57,361 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:48:07,376 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:48:10,514 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:72)
+ [DUBBO] Received heartbeat from remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:48:17,378 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:48:22,156 method:org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:861)
+DispatcherServlet with name 'taotao-manager-web' processing GET request for [/item/add]
+
+
+[DEBUG] 2018-09-21 09:48:22,156 method:org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.getHandlerInternal(AbstractHandlerMethodMapping.java:318)
+Looking up handler method for path /item/add
+
+
+[DEBUG] 2018-09-21 09:48:22,157 method:org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.getHandlerInternal(AbstractHandlerMethodMapping.java:325)
+Returning handler method [public java.lang.Object com.taotao.controller.ItemController.getItemList(com.taotao.pojo.TbItem,java.lang.String)]
+
+
+[DEBUG] 2018-09-21 09:48:22,157 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'itemController'
+
+
+[DEBUG] 2018-09-21 09:48:22,158 method:org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:947)
+Last-Modified value for [/item/add] is: -1
+
+
+[DEBUG] 2018-09-21 09:48:23,837 method:com.alibaba.dubbo.remoting.transport.DecodeHandler.decode(DecodeHandler.java:60)
+ [DUBBO] Decode decodeable message com.alibaba.dubbo.rpc.protocol.dubbo.DecodeableRpcResult, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:48:23,845 method:org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:225)
+Written [com.taotao.common.pojo.TaotaoResult@40ede36c] as "application/json;charset=UTF-8" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@13283317]
+
+
+[DEBUG] 2018-09-21 09:48:23,846 method:org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1034)
+Null ModelAndView returned to DispatcherServlet with name 'taotao-manager-web': assuming HandlerAdapter completed request handling
+
+
+[DEBUG] 2018-09-21 09:48:23,846 method:org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:999)
+Successfully completed request
+
+
+[DEBUG] 2018-09-21 09:48:27,382 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 09:48:37,391 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:48:47,395 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:48:54,674 method:org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:861)
+DispatcherServlet with name 'taotao-manager-web' processing GET request for [/item/add]
+
+
+[DEBUG] 2018-09-21 09:48:54,674 method:org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.getHandlerInternal(AbstractHandlerMethodMapping.java:318)
+Looking up handler method for path /item/add
+
+
+[DEBUG] 2018-09-21 09:48:54,674 method:org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.getHandlerInternal(AbstractHandlerMethodMapping.java:325)
+Returning handler method [public java.lang.Object com.taotao.controller.ItemController.getItemList(com.taotao.pojo.TbItem,java.lang.String)]
+
+
+[DEBUG] 2018-09-21 09:48:54,674 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'itemController'
+
+
+[DEBUG] 2018-09-21 09:48:54,675 method:org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:947)
+Last-Modified value for [/item/add] is: -1
+
+
+[DEBUG] 2018-09-21 09:48:56,331 method:com.alibaba.dubbo.remoting.transport.DecodeHandler.decode(DecodeHandler.java:60)
+ [DUBBO] Decode decodeable message com.alibaba.dubbo.rpc.protocol.dubbo.DecodeableRpcResult, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:48:56,334 method:org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:225)
+Written [com.taotao.common.pojo.TaotaoResult@48462da5] as "application/json;charset=UTF-8" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@13283317]
+
+
+[DEBUG] 2018-09-21 09:48:56,334 method:org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1034)
+Null ModelAndView returned to DispatcherServlet with name 'taotao-manager-web': assuming HandlerAdapter completed request handling
+
+
+[DEBUG] 2018-09-21 09:48:56,335 method:org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:999)
+Successfully completed request
+
+
+[DEBUG] 2018-09-21 09:48:57,399 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:49:07,414 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 09:49:17,460 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 39ms
+
+
+[DEBUG] 2018-09-21 09:49:27,432 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 3ms
+
+
+[DEBUG] 2018-09-21 09:49:38,601 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 737ms
+
+
+[DEBUG] 2018-09-21 09:49:47,900 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:49:52,920 method:org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:861)
+DispatcherServlet with name 'taotao-manager-web' processing GET request for [/item/add]
+
+
+[DEBUG] 2018-09-21 09:49:52,921 method:org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.getHandlerInternal(AbstractHandlerMethodMapping.java:318)
+Looking up handler method for path /item/add
+
+
+[DEBUG] 2018-09-21 09:49:52,921 method:org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.getHandlerInternal(AbstractHandlerMethodMapping.java:325)
+Returning handler method [public java.lang.Object com.taotao.controller.ItemController.getItemList(com.taotao.pojo.TbItem,java.lang.String)]
+
+
+[DEBUG] 2018-09-21 09:49:52,921 method:org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:251)
+Returning cached instance of singleton bean 'itemController'
+
+
+[DEBUG] 2018-09-21 09:49:52,922 method:org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:947)
+Last-Modified value for [/item/add] is: -1
+
+
+[DEBUG] 2018-09-21 09:49:54,425 method:com.alibaba.dubbo.remoting.transport.DecodeHandler.decode(DecodeHandler.java:60)
+ [DUBBO] Decode decodeable message com.alibaba.dubbo.rpc.protocol.dubbo.DecodeableRpcResult, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:49:54,427 method:org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:225)
+Written [com.taotao.common.pojo.TaotaoResult@676363b6] as "application/json;charset=UTF-8" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@13283317]
+
+
+[DEBUG] 2018-09-21 09:49:54,427 method:org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1034)
+Null ModelAndView returned to DispatcherServlet with name 'taotao-manager-web': assuming HandlerAdapter completed request handling
+
+
+[DEBUG] 2018-09-21 09:49:54,429 method:org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:999)
+Successfully completed request
+
+
+[DEBUG] 2018-09-21 09:49:57,904 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 6ms
+
+
+[DEBUG] 2018-09-21 09:50:07,906 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:50:17,921 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 3ms
+
+
+[DEBUG] 2018-09-21 09:50:27,923 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 09:50:37,925 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:50:47,925 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:50:53,448 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:50:53,479 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:50:57,940 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 12ms
+
+
+[DEBUG] 2018-09-21 09:51:07,945 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:51:17,946 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:51:27,961 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:51:37,961 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:51:47,964 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:51:53,471 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:51:53,471 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:51:57,979 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:52:07,981 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:52:17,982 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:52:27,998 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:52:38,013 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:52:48,016 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:52:53,479 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:52:53,479 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:52:58,018 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:53:08,026 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 09:53:18,032 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:53:28,034 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:53:38,049 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:53:48,065 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:53:53,496 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:53:53,496 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:53:58,067 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:54:08,068 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:54:18,083 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:54:28,085 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:54:38,086 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:54:48,102 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:54:53,516 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:54:53,516 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:54:58,102 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:55:08,107 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:55:18,122 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:55:28,137 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 4ms
+
+
+[DEBUG] 2018-09-21 09:55:38,138 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 09:55:48,139 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:55:53,522 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:55:53,522 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:55:58,140 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:56:08,141 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 09:56:18,375 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 246ms
+
+
+[DEBUG] 2018-09-21 09:56:28,172 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:56:38,187 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:56:48,189 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:56:53,544 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:56:53,544 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:56:58,193 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:57:08,208 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 09:57:18,210 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:57:28,229 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 26ms
+
+
+[DEBUG] 2018-09-21 09:57:38,244 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:57:48,259 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:57:53,550 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:57:53,550 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:57:58,261 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:58:08,262 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:58:18,264 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:58:28,267 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 09:58:38,269 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:58:48,284 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:58:53,573 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:58:53,573 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:58:58,285 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:59:08,290 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:59:18,305 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:59:28,320 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:59:38,322 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 09:59:48,323 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 09:59:53,581 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:59:53,581 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 09:59:58,324 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:00:08,325 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:00:18,325 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 10:00:28,340 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 10:00:38,356 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 10:00:48,356 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:00:53,584 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:00:53,584 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:00:58,360 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 10:01:08,375 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:01:18,377 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:01:28,378 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 10:01:38,394 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:01:48,409 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:01:53,590 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:01:53,590 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:01:58,411 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:02:08,412 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:02:18,427 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 5ms
+
+
+[DEBUG] 2018-09-21 10:02:28,428 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:02:38,428 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:02:48,444 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:02:53,607 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:02:53,607 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:02:58,444 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:03:08,448 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:03:18,450 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 10:03:28,466 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:03:38,467 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:03:48,477 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:03:53,625 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:03:53,625 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:03:58,492 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 10:04:08,493 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:04:18,495 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:04:28,498 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:04:38,513 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 10:04:48,516 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 10:04:53,636 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:04:53,636 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:04:58,518 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 10:05:08,519 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:05:18,534 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:05:28,540 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:05:38,555 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:05:48,570 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 10:05:53,656 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:05:53,656 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:05:58,573 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:06:08,576 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:06:18,591 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:06:28,606 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:06:38,608 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 10:06:48,623 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 10:06:53,662 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:06:53,662 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:06:58,638 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:07:08,641 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 10:07:18,644 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 10:07:28,660 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:07:38,675 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:07:48,678 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 10:07:53,670 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:07:53,670 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:07:58,694 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 10:08:08,694 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:08:18,696 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:08:28,698 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 7ms
+
+
+[DEBUG] 2018-09-21 10:08:38,714 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 10:08:48,729 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:08:53,675 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:08:53,675 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:08:58,730 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 10:09:08,732 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:09:18,747 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:09:28,749 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 10:09:38,751 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:09:48,766 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 4ms
+
+
+[DEBUG] 2018-09-21 10:09:53,695 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:09:53,695 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:09:58,767 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:10:08,769 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 10:10:18,770 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:10:28,785 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:10:38,785 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:10:48,787 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:10:53,701 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:10:53,701 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:10:58,802 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:11:08,804 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:11:18,805 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:11:28,805 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 10:11:38,820 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:11:48,825 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 10:11:53,710 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:11:53,710 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:11:58,827 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:12:08,827 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:12:18,829 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:12:28,831 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:12:38,846 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:12:48,861 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:12:53,713 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:12:53,713 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:12:58,862 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:13:08,865 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 10:13:18,881 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 10:13:28,882 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 10:13:38,885 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:13:48,900 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:13:53,720 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:13:53,720 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:13:58,915 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:14:08,917 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 10:14:18,919 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:14:28,935 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:14:38,950 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 10:14:48,952 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:14:53,725 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:14:53,725 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:14:58,967 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 10:15:08,982 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 10:15:18,986 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:15:28,988 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:15:39,003 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:15:49,019 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:15:53,732 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:15:53,732 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:15:59,022 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 4ms
+
+
+[DEBUG] 2018-09-21 10:16:09,037 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:16:19,038 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 10:16:29,039 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:16:39,039 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 10:16:49,055 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 10:16:53,735 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:16:53,735 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:16:59,070 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 10:17:09,071 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:17:19,072 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:17:29,087 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:17:39,091 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:17:49,092 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:17:53,741 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:17:53,741 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:17:59,108 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 10:18:09,108 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 10:18:19,111 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:18:29,126 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 10:18:39,141 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:18:49,142 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:18:53,744 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:18:53,744 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:18:59,143 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:19:09,158 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:19:19,158 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 10:19:29,161 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 3ms
+
+
+[DEBUG] 2018-09-21 10:19:39,165 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 2ms
+
+
+[DEBUG] 2018-09-21 10:19:49,180 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:19:53,751 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartBeatTask.run(HeartBeatTask.java:66)
+ [DUBBO] Send heartbeat to remote channel /192.168.1.250:20880, cause: The channel has no data-transmission exceeds a heartbeat period: 60000ms, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:19:53,751 method:com.alibaba.dubbo.remoting.exchange.support.header.HeartbeatHandler.received(HeartbeatHandler.java:82)
+ [DUBBO] Receive heartbeat response in thread New I/O client worker #1-1, dubbo version: 2.5.3, current host: 192.168.1.250
+
+
+[DEBUG] 2018-09-21 10:19:59,180 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:20:09,181 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms
+
+
+[DEBUG] 2018-09-21 10:20:19,182 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:20:29,197 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 1ms
+
+
+[DEBUG] 2018-09-21 10:20:39,199 method:org.apache.zookeeper.ClientCnxn$SendThread.readResponse(ClientCnxn.java:742)
+Got ping response for sessionid: 0x165d79b826f004f after 0ms

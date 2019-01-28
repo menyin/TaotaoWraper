@@ -1,0 +1,4 @@
+com\taotao\controller\PageController.class
+com\taotao\exception\GlobalExceptionResolver.class
+com\taotao\controller\ItemController.class
+com\taotao\controller\PictureController.class
